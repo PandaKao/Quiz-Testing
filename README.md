@@ -105,7 +105,7 @@ This Challenge is graded based on the following criteria:
 
 * A walkthrough video that demonstrates the component and end-to-end tests running and passing must be submitted.
 
-* The `README.md` file must include a link to the walkthrough video. https://drive.google.com/file/d/1nHBFpD2pLg8fEWPr03lmES7Fcb4jUUfC/view
+* The `README.md` file must include a link to the walkthrough video. https://drive.google.com/file/d/1WiDACg1D9dB42Q1Lm584mJq8nrAkyxoF/view
 
 * The walkthrough video must show all tests passing from the command line.
 
